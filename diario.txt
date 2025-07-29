@@ -1,1 +1,1 @@
-teste
+Aprendi que o Git pode ser usado para criar pastas - ou repositórios - sem necessariamente abrir os programas. Pelo Git, é possível usar o "mkdir" para criar um repositório, ou o "cd" para navegar pelo sistema. Nós costumamos usar o Git Bash, mas hoje aprendemos sobre o GitHub, que pode ser usado para melhorar nossa prática na área.
